@@ -1,6 +1,9 @@
 # Doraemon Drawing with Turtle
 
 DEMO:
+![Screenshot from 2023-11-16 17-22-20](https://github.com/Dev0psKing/Doraemon-Drawing/assets/99263767/9f49e213-8c78-4666-869f-6ab4a2206894)
+
+
 
 ## Introduction
 This Python script utilizes the Turtle graphics library to draw a charming depiction of Doraemon, the beloved cartoon character. The code creates a visually appealing image with detailed features such as eyes, mouth, scarf, and more.
