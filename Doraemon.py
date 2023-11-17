@@ -1,9 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[11]:
-
-
+#!/usr/bin/env pyth
 
 from turtle import *
 
